@@ -27,3 +27,4 @@ Development dependencies are:
 * This application has two end points :
 * Default http://IP_ADDRESS:8081
 * User : http://IP_ADDRESS:8081/welcome/<USERNAME>
+# devops-boot-camp
